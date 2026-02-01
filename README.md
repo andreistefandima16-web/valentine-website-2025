@@ -86,20 +86,20 @@ Note: Make sure you're logged into your GitHub account. If you don't have one, y
 Here's what you can customize in `config.js`:
 ```javascript
 // Basic Information
-valentineName: "Jade"                    // Your Valentine's name
+valentineName: "Daria ❤️"                    // Your Valentine's name
 pageTitle: "Will You Be My Valentine? 💝" // Browser tab title
 
 // Floating Background Elements
 floatingEmojis: {
     hearts: ['❤️', '💖', '💝', '💗', '💓'],  // Heart emojis in background
-    bears: ['🧸', '🐻']                       // Bear emojis in background
+    bears: ['🐈', '😻']                       // Bear emojis in background
 }
 
 // Questions and Buttons
 questions: {
     first: {
         text: "Do you like me?",                   // First question
-        yesBtn: "Yes",                             // Yes button text
+        yesBtn: "Yes ❤️",                             // Yes button text
         noBtn: "No",                               // No button text
         secretAnswer: "I don't like you, I love you! ❤️"  // Hidden message
     },
